@@ -81,4 +81,4 @@ const course = {
     {},
     {},
     {}
-] //also a way to declare objects in array form
+] //also a way to declare objects in array form/workspaces/js-hindi1/.devcontainer/01_basics
